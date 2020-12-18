@@ -34,7 +34,6 @@ std::tuple<int32_t, int32_t, int32_t> GetPairFor3(const std::vector<int32_t>& in
     return {0, 0, 0};
   }
   std::unordered_map<int32_t, std::pair<int32_t, int32_t>> cache;
-  // auto pair = std::make_pair(input[0] + input[1]], std::make_pair(input[0], input[1]));
   cache[input[0] + input[1]] = {input[0], input[1]};
 
   for (int i = 2; i < input.size(); ++i) {
