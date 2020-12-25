@@ -4,7 +4,7 @@ Repo for the advent of code 2020. Let's see how far it goes. I will try to use m
 
 * Day 1: [LUA](https://www.lua.org/) (originally [C++](https://isocpp.org/))
 * Day 2: [AWK](http://www.awklang.org/) (originally [Go](https://golang.org/))
-* Day 3: [Rust](https://www.rust-lang.org/)
+* Day 3: [Perl](https://www.perl.org/) (originally [Rust](https://www.rust-lang.org/))
 * Day 4: [Erlang](https://www.erlang.org/) (originally [Elixir](https://elixir-lang.org/))
 * Day 5: [Ruby](https://www.ruby-lang.org/en/)
 * Day 6: [Python](https://www.python.org/)
